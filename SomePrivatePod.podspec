@@ -34,5 +34,6 @@ Pod::Spec.new do |s|
 
       more.dependency 'SomePrivatePod/Core'
       more.dependency 'Google-Mobile-Ads-SDK', '7.51.0'
- end
+   end
+end
  
