@@ -16,4 +16,4 @@ Pod::Spec.new do |s|
    s.ios.frameworks            = 'UIKit', 'QuartzCore', 'WebKit'
  
    s.vendored_frameworks   = 'TestLib.xcframework'
- 
+end
